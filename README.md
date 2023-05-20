@@ -1,6 +1,6 @@
 # PyQtStarter
 
-语言： [English]()     [简体中文]()    
+语言： [English]()     [简体中文](README_zh.md)    
 
 ## 1.Introduction
 
